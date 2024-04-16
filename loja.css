@@ -50,9 +50,9 @@ section h2 {
     color: rgb(243, 158, 0);
 }
 
-p{
+.noticias1 {
     text-align: center;
-    font-size: 25px;
+    font-size: 1000px;
     margin: 30px;
 }
 

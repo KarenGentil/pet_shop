@@ -87,6 +87,9 @@ div.logotipo img{
     text-align: center;
 }
 
+.formulario{
+    padding: 50px;
+}
 
 
 form {
@@ -95,9 +98,8 @@ form {
     padding: 1.25em 1.8em;
     border-radius: 10px;
     margin: 0 auto;
-    margin: 20px 50px;
     padding: 30px 0;
-    background-color: blanchedalmond;
+    background-color: #ffebcd;
     text-align: center;
 }
 
