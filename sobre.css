@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+header{
+    display: flex;
+   align-items: center;
+   padding: 0 25px;
+    background-color: rgb(236, 209, 120);
+    justify-content: space-between;
+    align-items: center;
+    
+    
+
+}
+
+div.noticias1  h2 {
+    text-align: center;
+    display: block;
+    font-size: 2em;
+    margin-block-start:1em;
+    margin-block-end: 1m;
+    font-weight: 200;
+    color:  rgb(255, 196, 0);
+    margin: 50px;
+}
+
+
+
+
+
+nav ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+
+
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+ .foto{
+    height: 280px;
+    border-radius:20px;
+    margin: 30px;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    padding: 50px 20px 20px 20px;
+    background-color: re;
+}
+
+
+ table{
+    border-spacing: 15px;
+ }
+
+
+
+div.logotipo img{
+    height: 130px;
+    text-align: center;
+}
+
+
+
+.noticias1  p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    padding: 50px;
+    
+    
+}
+
+
+footer .rodape{
+    background-color: rgb(236, 209, 120) ;
+    display: flex;
+   align-items: center;
+   height: 100px;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
